@@ -51,13 +51,11 @@ To build a full-stack web application that manages user data through a dashboard
 ## Setup Instructions
 
 ### Backend Setup
-```bash
 cd backend
 npm install
 npm start
 
 ### Backend Setup
-```bash
 cd frontend
 npm install
 npm start
