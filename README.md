@@ -1,24 +1,6 @@
 # User Management Dashboard
 
-## Project Overview
 The User Management Dashboard is a full-stack web application that allows users to be added, viewed, edited, and deleted from a centralized dashboard. This project is built using React.js for the frontend, Node.js with Express.js for the backend, and MongoDB as the database.
-
----
-
-## Tech Stack
-
-### Frontend
-- React.js (Functional Components & Hooks)
-- React Router
-- Axios
-
-
-### Backend
-- Node.js
-- Express.js
-
-### Database
-- MongoDB with Mongoose
 
 ---
 
@@ -40,6 +22,22 @@ The User Management Dashboard is a full-stack web application that allows users 
 
 ---
 
+## Tech Stack
+
+### Frontend
+- React.js (Functional Components & Hooks)
+- React Router
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB with Mongoose
+
+---
+
 ## Setup Instructions
 
 ### Backend Setup
@@ -47,7 +45,7 @@ The User Management Dashboard is a full-stack web application that allows users 
 - npm install
 - npm start
 
-### Backend Setup
+### Frontend Setup
 - cd frontend
 - npm install
 - npm start
